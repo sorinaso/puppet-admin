@@ -1,0 +1,7 @@
+# IDE
+.idea
+
+# Vagrant
+.vagrant
+/development_gems
+/log
